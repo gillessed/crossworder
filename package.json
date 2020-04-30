@@ -46,7 +46,7 @@
         "classnames": "^2.2.5",
         "dot-prop-immutable": "^1.4.0",
         "immutable": "^3.8.1",
-        "jquery": "^3.2.1",
+        "jquery": "^3.5.0",
         "prop-types": "^15.6.2",
         "react": "^16.4.1",
         "react-addons-css-transition-group": "^15.6.0",
